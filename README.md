@@ -1,4 +1,4 @@
-<h1 align="center" color="white">Salut 👋, je suis Ryan QUEVA</h1>
+<h1 align="center">Salut 👋, je suis Ryan QUEVA</h1>
 <h3 align="center">Développeur Web 🌟</h3>
 
 <br>
