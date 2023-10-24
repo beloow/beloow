@@ -11,7 +11,7 @@
 
 - 📫 Pour me contacter **quevaqueva11@gmail.com** & **contact@ryanqueva.fr**
 
-- ⚡ Passion Bitcoin & nouvelles technologies
+- ⚡ Passions, Développement & Nouvelles Technologies
 
 <br>
 
@@ -30,7 +30,7 @@
 </p>
 
 <br>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- gif source : https://iconscout.com/-->
 <p><img align="right" src="gif/second-gif.gif" alt="beloow" /></p>
 
@@ -48,11 +48,9 @@
 * ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 * ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 * ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
-
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### OS & Hosting
 
@@ -63,9 +61,10 @@
 * ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 * ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 * ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+* ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
