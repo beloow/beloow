@@ -30,7 +30,7 @@
 </p>
 
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- gif source : https://iconscout.com/-->
 <p><img align="right" src="gif/second-gif.gif" alt="beloow" /></p>
 
@@ -50,7 +50,6 @@
 * ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### OS & Hosting
 
@@ -64,7 +63,7 @@
 * ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
