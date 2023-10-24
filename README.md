@@ -31,6 +31,9 @@
 
 <br>
 
+<!-- gif source : https://iconscout.com/-->
+<p><img align="right" src="gif/second-gif.gif" alt="beloow" /></p>
+
 ### Languages et outils 
 
 * ![HTML5][html5.com]
@@ -50,8 +53,6 @@
 
 <br>
 
-<!-- gif source : adam-pw -->
-<p><img align="right" src="gif/second-gif.gif" alt="beloow" /></p>
 
 
 ### OS
