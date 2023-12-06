@@ -9,9 +9,9 @@
 
 - 🌱 En formation developpeur web et web mobile
 
-- 📫 Pour me contacter **quevaqueva11@gmail.com** & **contact@ryanqueva.fr**
+- 📫 **contact@ryanqueva.fr**
 
-- ⚡ Passions, Développement & Nouvelles Technologies
+- ⚡ Développement & Nouvelles Technologies
 
 <br>
 
