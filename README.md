@@ -7,7 +7,7 @@
 <p><img align="right" src="gif/primary-gif.gif" alt="beloow" /></p>
 
 
-- 🌱 En formation developpeur web et web mobile
+- 🌱 Développeur Web
 
 - 📫 **contact@ryanqueva.fr**
 
