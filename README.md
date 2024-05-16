@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developper web Freelance 🧑‍💻<br>Ouvert au opportunités 😎<br>Besoin d'une vitrine sur le web ? contactez moi 💬<br>
+Developper web Freelance 🧑‍💻<br>Ouvert au opportunités 😎<br>Besoin d'une vitrine sur le web ? 💬<br>
 
 
 ## 🌐 Socials:
